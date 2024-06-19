@@ -1,4 +1,4 @@
-# Calendar-Backend test
+# Calendar-Backend
 
 ## Dev
 
